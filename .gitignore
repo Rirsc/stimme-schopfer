@@ -1,0 +1,5 @@
+.env
+node_modules
+_archive
+_references
+_outputs

@@ -1,0 +1,37 @@
+# Stimme Schopfer
+
+Small generator of text-to-speech examples for learning German.
+It creates content with short sentences in English and German, with pauses for active translation practice.
+Customizable for themes and proficiency levels.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+2. Navigate to the project directory: `cd your-repo`
+3. Install the dependencies: `pip install -r requirements.txt`
+
+## Usage
+
+1. Run the main script: `python main.py`
+2. Follow the prompts to generate content.
+
+## Contributing
+
+Contributions are welcome! Please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/your-feature`
+3. Make your changes and commit them: `git commit -m 'Add your feature'`
+4. Push to the branch: `git push origin feature/your-feature`
+5. Submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
